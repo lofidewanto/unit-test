@@ -5,4 +5,5 @@ I collect all the Java examples about testing in this repository. Just all about
 
 Have fun!
 
-https://buildhive.cloudbees.com/job/lofidewanto/job/unit-test/badge/icon
+Our current build status at BuildHive CloudBees: [![Build Status](https://buildhive.cloudbees.com/job/lofidewanto/job/unit-test/badge/icon)](https://buildhive.cloudbees.com/job/lofidewanto/job/unit-test/)
+
