@@ -28,6 +28,6 @@
 	<!-- Modules                                                         -->
 	<!-- =============================================================== -->
 	<modules>
-		<module>intro-mockito</module>
+		<module>intro-mockito/testmock</module>
 	</modules>
 </project>
